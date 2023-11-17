@@ -1,4 +1,8 @@
-# create-svelte
+# Source Tutorial
+
+Just a learning exercise completed by following along with this video by [Joy of Code](https://youtu.be/uOI77E8Y95Q?si=NHabNgIh_609PN5v).
+
+## create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
 
